@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @himanshukr1721
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- 👋 Hi, I’m himanshu
 - 👀 I’m interested in Web Development and ML
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

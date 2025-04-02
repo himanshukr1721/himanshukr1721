@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashishmohanty10.ashishmohanty10&left_color=crimson"  />
-</div>
+
 
 ###
 

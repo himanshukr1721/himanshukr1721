@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img height="350" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif" />
-</div>
+</div> -->
 
-<h3 align="center">Hi 👋, I'm Himanshu Kumar<br/>A passionate Software Engineer from India 🇮🇳</h3>
+<h3 align="center">¡Hola! 👋, soy Himanshu <br/>a machine learning engineer from India 🇮🇳</h3>
 
 <div align="center">
   <a href="https://x.com/iwnl_himanshu" target="_blank">
@@ -33,7 +33,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently building**: Cool software projects that solve real-world problems  
+- 🔭 **Currently building**: Cool softwares that solve real-world problems  
 - 🌱 **Learning**: Machine Learning, Web2, and scaling backend systems  
 - 💬 **Ask me about**:  
   &nbsp;&nbsp;&nbsp;&nbsp;• Core Computing Subjects 🌐  
